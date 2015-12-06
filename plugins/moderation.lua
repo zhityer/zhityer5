@@ -1,3 +1,5 @@
+do
+
 local function check_member(cb_extra, success, result)
    local receiver = cb_extra.receiver
    local data = cb_extra.data
